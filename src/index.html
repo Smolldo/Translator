@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./sass/main.scss">
+    <title>TransGame</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Check Level</h1>
+        <nav class="wrapper">
+            <div class="level_cover">
+                <div class="level_block">
+                    <h3>Easy</h3>
+                    <input type="radio" name="level">
+                </div>
+                <div class="level_block">
+                    <h3>Medium</h3>
+                    <input type="radio" name="level">
+                </div>
+                <div class="level_block">
+                    <h3>Medic</h3>
+                    <input type="radio" name="level">
+                </div>
+            </div>
+            <button class="start">Let The battle begin!</button>
+        </nav>
+        <section class="game is-none">
+            <div class="pic_wrapper">
+            </div>
+            <div class="score">
+                <span class="points" id="correct">-</span>
+                <span class="points" id="incorrect">-</span>
+            </div>
+            <div class="re">
+                <input type="text" id="inpt"> 
+            <button id="check" >Check</button>  
+            </div>
+        </section>
+    </div>
+    <script src="./js/index.js"></script>
+</body>
+</html>

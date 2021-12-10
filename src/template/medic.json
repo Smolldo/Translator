@@ -1,0 +1,113 @@
+[
+    {
+        "src": "https://files.fm/thumb_show.php?i=4bqnvdjnw",
+        "alt": "Grudina",
+        "num": 1,
+        "answers":[
+            "Sternum",
+            "Vertebra",
+            "Costa",
+            "Tumor"
+        ]
+    },
+
+    {
+        "src": "https://files.fm/thumb_show.php?i=tvwns9jss",
+        "alt": "Kishka",
+        "num": 2,
+        "answers":[
+            "Rectumi",
+            "Duodeum",
+            "Stenoideum",
+            "Labor"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=yg2vb29b9",
+        "alt": "Zapalennya",
+        "num": 3,
+        "answers":[
+            "Invasion",
+            "Cartilage",
+            "Inflamation",
+            "Flamen"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=h6gng5fvd",
+        "alt": "Pechinka",
+        "num": 4,
+        "answers":[
+            "Bone",
+            "Glandula",
+            "Stormach",
+            "Liver"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=jsbgf835s",
+        "alt": "Pryama",
+        "num": 5,
+        "answers":[
+            "Rectum",
+            "Saliva",
+            "Temorus",
+            "Stenos"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=4s9q8vnhu",
+        "alt": "Svichka",
+        "num": 6,
+        "answers":[
+            "REctal",
+            "Anulis",
+            "Suppositorium",
+            "Ligament"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=4wehm6xcv",
+        "alt": "Stegno",
+        "num": 7,
+        "answers":[
+            "Radial",
+            "Scapula",
+            "clavicula",
+            "Femur"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=bzvr6kxcq",
+        "alt": "Sudina",
+        "num": 8,
+        "answers":[
+            "Vessel",
+            "Vesel",
+            "Vasel",
+            "Vassel"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=6s2se8jcu",
+        "alt": "Hryashch",
+        "num": 9,
+        "answers":[
+            "Ligamentum",
+            "Cartilage",
+            "Unguentum",
+            "Misce"
+        ]
+    },
+    {
+        "src": "https://files.fm/thumb_show.php?i=m3bvv9zfs",
+        "alt": "Shlunok",
+        "num": 10,
+        "answers":[
+            "Larynx",
+            "Pharynx",
+            "Stomach",
+            "Lapor"
+        ]
+    }
+]
